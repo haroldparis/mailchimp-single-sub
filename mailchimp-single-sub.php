@@ -8,6 +8,8 @@ Author: Harold PARIS
 Author URI: http://haroldparis.fr
 License: GPL3
 
+Github: https://github.com/haroldparis/mailchimp-single-sub
+
 Copyright &copy; 2013 TRIBELEADR
 
 This program is free software: you can redistribute it and/or modify

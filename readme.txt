@@ -31,7 +31,7 @@ There are a few steps to take to configure the plugin :
 
 = It still does not work ! =
 
-You sure you took those previous steps ? If so, feel free to contact me on Github. The better is to post an issue here :
+You sure you took those previous steps ? If so, feel free to contact me on Github. The better is to post an issue here : https://github.com/haroldparis/mailchimp-single-sub
 
 = What's the shortcode code ? =
 
