@@ -8,11 +8,11 @@ Stable tag: 0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Provides a shortcode and a widget to add a single optin Mailchimp form.
+Provides a WordPress shortcode and a widget to add a single optin Mailchimp form.
 
 == Description ==
 
-Provides a shortcode and a widget to add a single optin Mailchimp form.
+Provides a WordPress shortcode and a widget to add a single optin Mailchimp form.
 
 == Frequently Asked Questions ==
 
